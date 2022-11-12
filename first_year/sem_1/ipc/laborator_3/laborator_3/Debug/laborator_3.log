@@ -1,0 +1,3 @@
+﻿  rezolvare1.c
+rezolvare2.obj : error LNK2005: _main already defined in rezolvare1.obj
+C:\Users\MrCag\source\repos\laborator_3\Debug\laborator_3.exe : fatal error LNK1169: one or more multiply defined symbols found
